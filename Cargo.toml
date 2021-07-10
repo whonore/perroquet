@@ -1,0 +1,12 @@
+[package]
+name = "perroquet"
+version = "0.0.1"
+authors = ["Wolf Honoré <wolfhonore@gmail.com>"]
+edition = "2018"
+description = "Indent Coq code."
+repository = "https://github.com/whonore/perroquet"
+license = "MIT"
+keywords = ["coq", "format", "indent"]
+categories = ["command-line-utilities", "development-tools"]
+
+[dependencies]

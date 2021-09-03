@@ -10,3 +10,4 @@ keywords = ["coq", "format", "indent"]
 categories = ["command-line-utilities", "development-tools"]
 
 [dependencies]
+clap = "2.33.3"
